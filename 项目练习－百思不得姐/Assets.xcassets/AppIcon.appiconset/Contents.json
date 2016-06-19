@@ -6,8 +6,9 @@
       "scale" : "1x"
     },
     {
-      "idiom" : "iphone",
       "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "AppIcon29x29@2x.png",
       "scale" : "2x"
     },
     {
@@ -73,15 +74,13 @@
       "scale" : "2x"
     },
     {
-      "size" : "50x50",
       "idiom" : "ipad",
-      "filename" : "AppIcon50x50~ipad.png",
+      "size" : "50x50",
       "scale" : "1x"
     },
     {
-      "size" : "50x50",
       "idiom" : "ipad",
-      "filename" : "AppIcon50x50@2x~ipad.png",
+      "size" : "50x50",
       "scale" : "2x"
     },
     {
@@ -90,21 +89,18 @@
       "scale" : "1x"
     },
     {
-      "size" : "72x72",
       "idiom" : "ipad",
-      "filename" : "AppIcon72x72@2x~ipad.png",
+      "size" : "72x72",
       "scale" : "2x"
     },
     {
-      "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "AppIcon76x76~ipad.png",
+      "size" : "76x76",
       "scale" : "1x"
     },
     {
-      "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "AppIcon76x76@2x~ipad.png",
+      "size" : "76x76",
       "scale" : "2x"
     },
     {
@@ -113,15 +109,13 @@
       "scale" : "2x"
     },
     {
-      "size" : "60x60",
       "idiom" : "car",
-      "filename" : "AppIcon60x60@2x.png",
+      "size" : "60x60",
       "scale" : "2x"
     },
     {
-      "size" : "60x60",
       "idiom" : "car",
-      "filename" : "AppIcon60x60@3x.png",
+      "size" : "60x60",
       "scale" : "3x"
     },
     {
@@ -141,7 +135,6 @@
     {
       "size" : "29x29",
       "idiom" : "watch",
-      "filename" : "AppIcon29x29@2x.png",
       "role" : "companionSettings",
       "scale" : "2x"
     },

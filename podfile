@@ -1,0 +1,20 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+target '项目练习－百思不得姐' do
+pod 'AFNetworking', '~> 3.1.0'
+pod 'SDWebImage', '~> 3.7.6'
+pod 'SVProgressHUD', '~> 2.0.3'
+
+end
+
+target '项目练习－百思不得姐Tests' do
+
+end
+
+target '项目练习－百思不得姐UITests' do
+
+end
+
